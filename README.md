@@ -4,6 +4,9 @@ Please try and complete the following before next class:
 * `git checkout -b <name of your branch`
 * create an a readme.md file explaining your difficulties and how you solved them
 
+This is Dean testing his new laptop
+
+
 ## Home Work
 * Create an S3 bucket
 * Create a role to access the bucket
